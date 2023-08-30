@@ -1,0 +1,25 @@
+.poster{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 125px;
+    color: white;
+    font-family: "Libre Baskerville", serif;
+    text-align: center;
+
+  }
+  .moto{
+    border: 5px solid black ;
+    width: 100%;
+
+  }
+  h1{
+    font-size: 3rem;
+    text-transform: uppercase;
+  }
+  p{
+    text-align: center;
+    text-transform: uppercase
+  }
+  body{
+    background-color: deepskyblue;
+  }
